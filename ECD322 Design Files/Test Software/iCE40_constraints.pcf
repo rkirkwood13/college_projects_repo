@@ -1,0 +1,22 @@
+
+#ECD322 Open Source FPGA 
+#Team Members: Rachel Roof, John Dambra, Asim Adam, Yizhou Wang
+#Advisor: Professor Douglas Summerville
+#Senior Project 2023, Professor Meghana Jain
+#Watson, Binghamton University
+
+#constraints for iCE5LP4K
+
+set_io LED1 41
+set_io PMOD5 36
+set_io PMOD7 35
+set_io PMOD8 32
+set_io PMOD6 31
+set_io PMOD4 28
+set_io PMOD2 27
+set_io PMOD1 26 
+set_io PMOD3 25
+set_io SW 43
+set_io CLK2 37
+set_io CLK1 44
+
