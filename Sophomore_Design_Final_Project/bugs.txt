@@ -1,0 +1,3 @@
+forward and then reverse - only does the forward command
+
+last command anything other than clockwise - doesn't run the last command
